@@ -1,4 +1,4 @@
-# Siarhei Ushkevich 👋
+# Siarhei Ushkevich
 
 # Java Backend Developer | Software Engineer
 
