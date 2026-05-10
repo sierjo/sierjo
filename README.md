@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-🌐 Check out my CV: [sierjo.github.io]()
+🌐 Check out my CV: [sierjo.github.io](https://sierjo.github.io/sierjo/)
 
 ### 💻 Tech Stack
 * Languages: Java 21
