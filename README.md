@@ -19,7 +19,7 @@
 ### 💻 Tech Stack
 * Languages: Java 21
 * Frameworks: Spring Boot, Spring MVC, Spring Security JWT, Hibernate, Java Persistence API (JPA), Jakarta EE, Bootstrap.
-* Databases: MySQL, PostgreSQL, MS SQL Server, MySQL Workbench, Redis, MongoDB.
+* Databases: MySQL, PostgreSQL, MS SQL Server, MySQL Workbench, Redis.
 * Tools: Git, Docker, Maven, Postman, IntelliJ IDEA, Visual Studio Code.
 * Testing / Documentation: JUnit, Mockito, Swagger/OpenAPI.
 * Web Technologies: REST API, WebSocket, HTTP, JSON.
