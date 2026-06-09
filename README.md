@@ -17,15 +17,16 @@
 🌐 Check out my CV: [sierjo.github.io](https://sierjo.github.io/sierjo/)
 
 ### 💻 Tech Stack
-* Languages: Java 21
-* Frameworks: Spring Boot, Spring MVC, Spring Security JWT, Hibernate, Java Persistence API (JPA), Jakarta EE, Bootstrap.
-* Databases: MySQL, PostgreSQL, MS SQL Server, MySQL Workbench, Redis.
-* Tools: Git, Docker, Maven, Postman, IntelliJ IDEA, Visual Studio Code.
-* Testing / Documentation: JUnit, Mockito, Swagger/OpenAPI.
-* Web Technologies: REST API, WebSocket, HTTP, JSON.
-* Messaging / Streaming: Apache Kafka.
+* **Languages:**                Java 21,  base (Python, C#, C++, JavaScript, TypeScript, HTML, CSS)
+* **Frameworks:**               Spring Boot, Spring MVC, Spring Security Hibernate, Java Persistence API (JPA), Bootstrap.
+* **Databases:**                MySQL, MS SQL Server, MySQL Workbench, NoSQL(Redis).
+* **Tools:**                    Git, Docker, Maven, Postman, IntelliJ IDEA, Visual Studio Code.
+* **Testing / Documentation:**  JUnit, Mockito, Swagger/OpenAPI.
+* **Web Technologies:**         REST API, WebSocket, HTTP, JSON.
+* **Messaging / Streaming**:    Apache Kafka.
+* **Systems**:                  Linux (Ubuntu)
 
 ### 📫 How to find me
-* LinkedIn: [http://linkedin.com/in/siarhei-ushkevich](https://www.linkedin.com/in/siarhei-ushkevich/)
-* Telegram: [@O_oSiarhei](https://t.me/O_oSiarhei)
-* Email: siarheiushkevich@gmail.com
+* **LinkedIn:**                 [http://linkedin.com/in/siarhei-ushkevich](https://www.linkedin.com/in/siarhei-ushkevich/)
+* **Telegram:**                 [@O_oSiarhei](https://t.me/O_oSiarhei)
+* **Email:**                    siarheiushkevich@gmail.com
